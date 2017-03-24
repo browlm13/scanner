@@ -12,7 +12,6 @@ import io #new for ubuntu
 #internal
 import src.config_handler as config_handler
 
-
 #
 #config settings
 #
